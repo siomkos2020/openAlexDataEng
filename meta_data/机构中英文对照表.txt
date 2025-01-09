@@ -1,0 +1,270 @@
+安徽工业大学	Anhui University of Technology
+安徽农业大学	Anhui Agricultural University
+安徽师范大学	Anhui Normal University
+安徽医科大学	Anhui Medical University
+北京大学	Peking University
+北京大学深圳研究生院	Peking University
+北京工业大学	Beijing University of Technology
+北京航空航天大学	Beihang University
+北京化工大学	Beijing University of Chemical Technology
+北京交通大学	Beijing Jiaotong University
+北京科技大学	University of Science and Technology Beijing
+北京理工大学	Beijing Institute of Technology
+北京联合大学	Beijing Union University
+北京师范大学	Beijing Normal University
+北京邮电大学	Beijing University of Posts and Telecommunications
+北京中医药大学	Beijing University of Chinese Medicine
+成都理工大学	Chengdu University of Technology
+成都信息工程大学	Nanjing University of Information Science and Technology
+大连理工大学	Dalian University of Technology
+大连医科大学	Dalian Medical University
+电子科技大学	University of Electronic Science and Technology of China
+东北财经大学	Dongbei University of Finance and Economics
+东北大学	Northeastern University
+东北师范大学	Northeast Normal University
+东莞理工学院	Dongguan University of Technology
+东华大学	Donghua University
+东南大学	Southeast University
+福建农林大学	Fujian Agriculture and Forestry University
+福建医科大学	Fujian Medical University
+福州大学	Fuzhou University
+阜阳师范大学	Fuyang Teachers College
+复旦大学	Fudan University
+广东工业大学	Guangdong University of Technology
+广西大学	Guangxi University
+广西师范大学	Guangxi Normal University
+广西医科大学	Guangxi Medical University
+广州大学	Guangzhou University
+广州医科大学	Guangzhou Medical University
+贵州大学	Guizhou University
+贵州师范大学	Guizhou Normal University
+桂林理工大学	Chinese Academy of Sciences
+国家纳米科学中心	Chinese Academy of Sciences
+国科大杭州高等研究院	Chinese Academy of Sciences
+哈尔滨工业大学	Harbin Institute of Technology
+哈尔滨医科大学	Harbin Medical University
+海南大学	Hainan University
+海南医学院	Hainan Medical University
+杭州电子科技大学	Hangzhou Dianzi University
+杭州师范大学	Hangzhou Normal University
+合肥工业大学	Hefei University of Technology
+河北大学	Hebei University
+河北师范大学	Hebei Normal University
+河北医科大学	Hebei Medical University
+河海大学	Hohai University
+河南大学	Henan University
+黑龙江大学	Heilongjiang University
+湖北大学	Hubei University
+湖南大学	Hunan University
+湖南农业大学	Hunan Agricultural University
+湖南师范大学	Hunan Normal University
+华北电力大学	North China Electric Power University
+华北电力大学（保定）	North China Electric Power University
+华东理工大学	East China University of Science and Technology
+华东师范大学	East China Normal University
+华南理工大学	South China University of Technology
+华南农业大学	South China Agricultural University
+华南师范大学	South China Normal University
+华侨大学	Huaqiao University
+华中科技大学	Huazhong University of Science and Technology
+华中农业大学	Huazhong Agricultural University
+华中师范大学	Central China Normal University
+吉林大学	Jilin University
+暨南大学	Jinan University
+江苏大学	Jiangsu University
+江西理工大学	Jiangxi University of Science and Technology
+江西师范大学	Jiangxi Normal University
+昆明理工大学	Kunming University of Science and Technology
+兰州大学	Lanzhou University
+南昌大学	Nanchang University
+南方科技大学	Southern University and A&M College
+南方医科大学	Southern Medical University
+南华大学	University of South China
+南京财经大学	Nanjing University of Finance and Economics
+南京大学	Nanjing University
+南京工业大学	Nanjing University of Technology
+南京航空航天大学	Nanjing University of Aeronautics and Astronautics
+南京理工大学	Nanjing University of Science and Technology
+南京农业大学	Nanjing Agricultural University
+南京师范大学	Nanjing Normal University
+南京信息工程大学	Nanjing University of Information Science and Technology
+南京医科大学	Nanjing Medical University
+中国空气动力研究与发展中心	China Aerodynamics Research and Development Center
+西安交通大学	Xi'an Jiaotong University
+中国科学技术大学	University of Science and Technology of China
+首都师范大学	Capital Normal University
+中国地质大学（北京）	China University of Geosciences
+南京邮电大学	Nanjing University of Posts and Telecommunications
+中国科学院长春应用化学研究所	Chinese Academy of Sciences
+南开大学	Nankai University
+中国科学院地质与地球物理研究所	Chinese Academy of Sciences
+中国科学院青岛生物能源与过程研究所	Chinese Academy of Sciences
+中国科学院自动化研究所	Chinese Academy of Sciences
+中国科学院兰州化学物理研究所	Chinese Academy of Sciences
+中南大学	Central South University
+山东大学	Shandong University
+中国科学院遗传与发育生物学研究所	Chinese Academy of Sciences
+中国科学院合肥物质科学研究院	Chinese Academy of Sciences
+四川大学	Sichuan University
+宁波大学	Ningbo Universit
+青岛大学	Qingdao University
+青海大学	Qinghai University
+清华大学	Tsinghua University
+厦门大学	Xiamen University
+西安电子科技大学	Xidian University
+中国科学院动物研究所	Chinese Academy of Sciences
+首都医科大学	Capital Medical University
+中国科学院生物物理研究所	Chinese Academy of Sciences
+浙江大学	Zhejiang University
+中国科学院生态环境研究中心	Chinese Academy of Sciences
+中国工程物理研究院核物理与化学研究所	China Academy of Engineering Physics
+中国科学院西北生态环境资源研究院	Chinese Academy of Sciences
+中国科学院国家授时中心	Chinese Academy of Sciences
+中国科学院上海有机化学研究所	Chinese Academy of Sciences
+中国科学院分子细胞科学卓越创新中心	Chinese Academy of Sciences
+中国科学院过程工程研究所	Chinese Academy of Sciences
+中国科学院化学研究所	Chinese Academy of Sciences
+上海大学	Shanghai University
+山东科技大学	Shandong University of Science and Technology
+山东农业大学	Shandong Agricultural University
+武汉大学	Wuhan University
+山东师范大学	Shandong Normal University
+中国科学院高能物理研究所	Chinese Academy of Sciences
+山西大学	Shanxi University
+陕西师范大学	Shaanxi Normal University
+中国科学院山西煤炭化学研究所	Chinese Academy of Sciences
+天津医科大学	Tianjin Medical University
+上海对外经贸大学	Shanghai University of International Business and Economics
+中国石油化工股份有限公司上海石油化工研究院	Sinopec
+上海海洋大学	Shanghai Ocean University
+上海交通大学	Shanghai Jiao Tong University
+上海科技大学	ShanghaiTech University
+深圳大学	Shenzhen University
+中国科学院数学与系统科学研究院	Chinese Academy of Sciences
+上海理工大学	University of Shanghai for Science and Technology
+上海纽约大学	New York University Shanghai
+上海师范大学	Shanghai Normal University
+中国人民解放军国防科技大学	National University of Defense Technology
+邵阳学院	Shaoyang University
+中国科学院上海药物研究所	Chinese Academy of Sciences
+武汉理工大学	Wuhan University of Technology
+沈阳化工大学	Shenyang University of Chemical Technology
+中国人民解放军第二军医大学	Second Military Medical University
+云南大学	Yunnan University
+中国科学院精密测量科学与技术创新研究院	Chinese Academy of Sciences
+中国科学院物理研究所	Chinese Academy of Sciences
+中国地质大学（武汉）	China University of Geosciences
+中山大学	Sun Yat-sen University
+西北工业大学	Northwestern Polytechnical University
+四川农业大学	Sichuan Agricultural University
+苏州大学	Soochow University
+天津大学	Tianjin University
+同济大学	Tongji University
+中国科学院水利部水土保持研究所	Chinese Academy of Sciences
+天津工业大学	Tianjin Polytechnic University
+天津师范大学	Tianjin Normal University
+中国科学院上海应用物理研究所	Chinese Academy of Sciences
+中国科学院力学研究所	Chinese Academy of Sciences
+中国科学院昆明动物研究所	Chinese Academy of Sciences
+中国科学院大连化学物理研究所	Chinese Academy of Sciences
+中国科学院成都生物研究所	Chinese Academy of Sciences
+温州医科大学	Wenzhou Medical College
+中国科学院工程热物理研究所	Chinese Academy of Sciences
+中国科学院大气物理研究所	Chinese Academy of Sciences
+中国人民解放军第三军医大学	Third Military Medical University
+西北大学	Northwest University (United States)
+浙江工商大学	Zhejiang Gongshang University
+中国科学院上海营养与健康研究所	Chinese Academy of Sciences
+西北师范大学	Northwest Normal University
+西藏大学	Tibet University
+西南大学	Southwest University
+西南交通大学	Southwest Jiaotong University
+香港大学深圳研究院	University of Hong Kong
+香港浸会大学深圳研究院	Hong Kong Baptist University
+中国科学院南京地理与湖泊研究所	Chinese Academy of Sciences
+中国科学院苏州纳米技术与纳米仿生研究所	Chinese Academy of Sciences
+湘潭大学	Xiangtan University
+云南财经大学	Yunnan University of Finance and Economics
+长春理工大学	Changchun University of Science and Technology
+中国科学院微生物研究所	Chinese Academy of Sciences
+中国科学院深圳先进技术研究院	Chinese Academy of Sciences
+中国科学院青藏高原研究所	Chinese Academy of Sciences
+中国科学院上海硅酸盐研究所	Chinese Academy of Sciences
+浙江工业大学	Zhejiang University of Technology
+浙江理工大学	Zhejiang Sci-Tech University
+浙江师范大学	Zhejiang Normal University
+浙江中医药大学	Zhejiang Chinese Medical University
+郑州大学	Zhengzhou University
+中国科学院广州地球化学研究所	Chinese Academy of Sciences
+中国工程物理研究院	China Academy of Engineering Physics
+中国海洋大学	Ocean University of China
+中国科学院上海微系统与信息技术研究所	Chinese Academy of Sciences
+中国科学院近代物理研究所	Chinese Academy of Sciences
+中国科学院、水利部成都山地灾害与环境研究所	Chinese Academy of Sciences
+中国科学院半导体研究所	Chinese Academy of Sciences
+中国科学院北京基因组研究所（国家生物信息中心）	Chinese Academy of Sciences
+上海海事大学	Shanghai Maritime University
+中国科学院城市环境研究所	Chinese Academy of Sciences
+中国科学院沈阳自动化研究所	Chinese Academy of Sciences
+中国科学院大学	Chinese Academy of Sciences
+中国科学院地理科学与资源研究所	Chinese Academy of Sciences
+中国科学院地球化学研究所	Chinese Academy of Sciences
+中国科学院地球环境研究所	Chinese Academy of Sciences
+中国科学院南海海洋研究所	Chinese Academy of Sciences
+中国科学院空天信息创新研究院	Chinese Academy of Sciences
+中国科学院水生生物研究所	Chinese Academy of Sciences
+中国科学院福建物质结构研究所	Chinese Academy of Sciences
+中国科学院分子植物科学卓越创新中心	Chinese Academy of Sciences
+重庆大学	Chongqing University
+中国科学院广州能源研究所	Chinese Academy of Sciences
+中国科学院广州生物医药与健康研究院	Chinese Academy of Sciences
+中国人民大学	Renmin University of China
+中国科学院海洋研究所	Chinese Academy of Sciences
+中国科学院声学研究所	Chinese Academy of Sciences
+中国科学院华南植物园	Chinese Academy of Sciences
+中国科学院软件研究所	Chinese Academy of Sciences
+中国科学院脑科学与智能技术卓越创新中心	Chinese Academy of Sciences
+中国科学院计算机网络信息中心	Chinese Academy of Sciences
+中国科学院计算技术研究所	Chinese Academy of Sciences
+中国科学院金属研究所	Chinese Academy of Sciences
+中国科学院科技战略咨询研究院	Chinese Academy of Sciences
+中日友好医院	China-Japan Friendship Hospital
+中国科学院昆明植物研究所	Chinese Academy of Sciences
+中国药科大学	China Pharmaceutical University
+中国科学院理化技术研究所	Chinese Academy of Sciences
+中国科学院理论物理研究所	Chinese Academy of Sciences
+中国科学院南京地质古生物研究所	Chinese Academy of Sciences
+中国科学院南京土壤研究所	Chinese Academy of Sciences
+中国科学院上海巴斯德研究所	Chinese Academy of Sciences
+中国科学院上海高等研究院	Chinese Academy of Sciences
+中国科学院上海光学精密机械研究所	Chinese Academy of Sciences
+中国科学院上海技术物理研究所	Chinese Academy of Sciences
+中国农业大学	China Agricultural University
+中国科学院深海科学与工程研究所	Chinese Academy of Sciences
+中国科学院武汉病毒研究所	Chinese Academy of Sciences
+中国科学院西安光学精密机械研究所	Chinese Academy of Sciences
+中国科学院西双版纳热带植物园	Chinese Academy of Sciences
+中国科学院心理研究所	Chinese Academy of Sciences
+中国科学院新疆理化技术研究所	Chinese Academy of Sciences
+中国科学院新疆生态与地理研究所	Chinese Academy of Sciences
+中国科学院烟台海岸带研究所	Chinese Academy of Sciences
+中国科学院长春光学精密机械与物理研究所	Chinese Academy of Sciences
+中国科学院植物研究所	Chinese Academy of Sciences
+中国科学院重庆绿色智能技术研究院	Chinese Academy of Sciences
+中国科学院紫金山天文台	Chinese Academy of Sciences
+中国矿业大学	China University of Mining and Technology
+中国气象局成都高原气象研究所	China Meteorological Administration
+中国气象局兰州干旱气象研究所	China Meteorological Administration
+中国气象局气象干部培训学院	China Meteorological Administration
+中国气象局乌鲁木齐沙漠气象研究所	China Meteorological Administration
+中国气象局武汉暴雨研究所	China Meteorological Administration
+中国人民解放军第四军医大学	Fourth Military Medical University
+中国石油大学（北京）	China University of Petroleum
+沈阳师范大学	Shenyang Normal University
+中国石油化工股份有限公司石油勘探开发研究院	Sinopec
+中央财经大学	Central University of Finance and Economics
+重庆医科大学	Chongqing Medical University
+自然资源部第二海洋研究所	Ontario Ministry of Natural Resources
+自然资源部第三海洋研究所	Ontario Ministry of Natural Resources
+自然资源部第一海洋研究所	Ontario Ministry of Natural Resources
+中国人民解放军战略支援部队信息工程大学	PLA Information Engineering University
