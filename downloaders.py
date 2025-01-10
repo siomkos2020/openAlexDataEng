@@ -149,7 +149,7 @@ class OAAuthorDownloader:
         if not os.path.exists(target_dir): os.mkdir(target_dir)
         # 初始化保存路径
         tb_path = os.path.join(target_dir, 'author_db.csv')
-        js_path = os.path.join(target_dir, 'author_info_%s.txt' % get_current_date())
+        js_path = os.path.join(target_dir, 'author_info.txt')
         
         # 表数据的断点恢复，提取已访问的作者
         downloaded = set()
@@ -279,7 +279,7 @@ class OAPaperDownloader:
         if not os.path.exists(target_dir): os.mkdir(target_dir)
         # 初始化保存路径
         tb_path = os.path.join(target_dir, 'paper_db.csv')
-        js_path = os.path.join(target_dir, 'paper_info_%s.txt' % get_current_date())
+        js_path = os.path.join(target_dir, 'paper_info.txt')
         
         # 表数据的断点恢复，提取已访问的URL，利用实时缓存机制实现
         downloaded = set()
