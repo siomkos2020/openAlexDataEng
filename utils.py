@@ -5,10 +5,12 @@ from tqdm import tqdm
 from datetime import datetime
 from pypinyin import lazy_pinyin
 
-def progress_listener(progress, total_steps):
+def progress_listener(progress, total_steps, taskend = False):
     """监听全局进度变量，并更新进度条"""
     with tqdm(total=total_steps) as pbar:
         while progress.value < total_steps:
+            if taskend.value:
+                break
             pbar.n = progress.value                 # 更新进度条当前进度
             pbar.last_print_n = progress.value      # 确保显示更新
             pbar.update(0)                          # 触发进度条刷新
